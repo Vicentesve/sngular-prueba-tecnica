@@ -1,16 +1,17 @@
 # [Sngular] prueba técnica Frontend
 
-## 💡 Descripción: Desarrollar una clase con un método que entregue el término n de la serie:
+## 💡 Descripción:
 
-[!formulaimg](https://github.com/Vicentesve/sngular-prueba-tecnica/blob/master/public/formula.png?raw=true)
+- Desarrollar una clase con un método que entregue el término n de la serie:
 
-## Realizar pruebas unitarias usando los 10 números naturales como entrada (10 casos de prueba en total).
+  ![formulaimg](https://github.com/Vicentesve/sngular-prueba-tecnica/blob/master/public/formula.png?raw=true)
 
-### Desarrollar 3 componentes de React:
+- Realizar pruebas unitarias usando los 10 números naturales como entrada (10 casos de prueba en total).
+  Desarrollar 3 componentes de React:
 
-1.  Un componente visual que muestra un formulario para introducir el número n.
-2.  Un componente no-visual donde se calcule el término n de la serie.
-3.  Un componente visual que muestra el resultado del cálculo.
+  1.  Un componente visual que muestra un formulario para introducir el número n.
+  2.  Un componente no-visual donde se calcule el término n de la serie.
+  3.  Un componente visual que muestra el resultado del cálculo.
 
 ## ➡️ Getting Started
 
