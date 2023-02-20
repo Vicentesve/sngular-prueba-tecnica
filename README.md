@@ -1,4 +1,4 @@
-# [Sngular] prueba técnica Frontend
+# Sngular prueba técnica Frontend
 
 ## 💡 Descripción:
 
