@@ -16,7 +16,10 @@
 ## ➡️ Getting Started
 
 1. Requisitos previos:
-   Antes de comenzar, asegúrate de tener instalado lo siguiente: - Node.js (versión 16.14.2 o superior) - npm (versión 9.4.2 o superior)
+   Antes de comenzar, asegúrate de tener instalado lo siguiente:
+
+   - Node.js (versión 16.14.2 o superior)
+   - npm (versión 9.4.2 o superior)
 
 2. Clona el repositorio en tu máquina local:
 
